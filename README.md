@@ -13,7 +13,7 @@ I was assigned the task to analyze date and summarize how the data differs by ci
 
    - Rural customer are more willing to find their own forms of transportation.
       - May have a smaller pool of consumers.
-      - Rural customers also are charged the most per fare on average.
+      - Rural customers are charged the most per fare on average.
       - Rural Pyber drivers earn the most fare on average. 
    - Suburban customers use Pyber service more less than Urban customers.
       - Suburban customers are in the middle on all the metrics.  
