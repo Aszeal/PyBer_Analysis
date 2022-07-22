@@ -25,7 +25,7 @@ I was assigned the task to analyize date and summarize how the data differs by c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Summary ## 
-After analyzing all the information I came to the conclusion 
+After analyzing all the information, I have three recommendations for the decision-makers at Pyber. But first, I need to address a **disparity** in the data. Based off of the data, it appears that the more customers use the product the **less** the Drivers make per fair.
 
 
 
