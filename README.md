@@ -25,4 +25,4 @@ I was assigned the task to analyize date and summarize how the data differs by c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Summary ## 
-After 
+After analyzing all the information I came to the conclusion 
