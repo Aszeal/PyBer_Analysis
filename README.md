@@ -2,7 +2,7 @@
  ## Overview of Analysis ##
 I was assigned the task to analyize date and summarize how the data differs by city type and how those differences can be used by decision-makers at a company called PyBer. If there are any disparities, I will discuss what they are and recommend strategies on how to address them head on.
 ## Results ##
-- Based off of the *Summary* information, I can condluded the follwoing:
+- Based off of the **Summary** information, I can conluded the follwoing:
    - Rural customer are more willing to find their own forms of transportation.
       - Rural customers also are charged the most per customer on average.
       - Rural Pyber drivers earn the most fare on average. 
@@ -11,5 +11,7 @@ I was assigned the task to analyize date and summarize how the data differs by c
    - Uban customers are a majority of their consumer base.
       - Urban customres on average are using the product the most.
       - Urban drives earn the least amount of fare per ride than other city types.
+Figure 1:
+
 ## Summary ## 
 After 
