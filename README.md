@@ -1,4 +1,4 @@
 # The PyBer Analysis # 
  ## Overview of Analysis ##
-## Results: ##
+## Results ##
 ## Summary ## 
