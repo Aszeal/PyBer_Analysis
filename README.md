@@ -12,6 +12,6 @@ I was assigned the task to analyize date and summarize how the data differs by c
       - Urban customres on average are using the product the most.
       - Urban drives earn the least amount of fare per ride than other city types.
 Figure 1:
-
+![The PyBer Analysis](https://github.com/Aszeal/PyBer_Analysis/blob/main/Analysis/Screenshot%20(59).png)
 ## Summary ## 
 After 
