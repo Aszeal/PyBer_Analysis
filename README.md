@@ -26,3 +26,9 @@ I was assigned the task to analyize date and summarize how the data differs by c
 
 ## Summary ## 
 After analyzing all the information I came to the conclusion 
+
+
+
+**Figure 2:**
+
+![The PyBer Analysis](https://github.com/Aszeal/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
