@@ -4,7 +4,7 @@ I was assigned the task to analyize date and summarize how the data differs by c
 ## Results ##
 - Based off of the *Summary* information, I can condluded the follwoing:
    - Rural customer are more willing to find their own forms of transportation.
-      -  
+      - df 
    - Suburban customers use Pyber service more less than Urban customrs.
    - Uban customers are a majority of their consumer base.
    - 
