@@ -30,7 +30,7 @@ I was assigned the task to analyze date and summarize how the data differs by ci
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Summary ## 
-After analyzing all the information, I have three recommendations for the decision-makers at Pyber. But first, I need to address the **disparities** in the data. Based off of the data, it appears that the more customers use the product the **less** the **Drivers** make per fair. Laslty, there are **twice as many Urban Drivers** than there are rides. 
+After analyzing all the information, I have three recommendations for the decision-makers at Pyber. But first, I need to address the **disparities** in the data. Based off of the data, it appears that the **more** customers use the product the **less** the **Drivers** make per fair. Laslty, there are **twice as many Urban Drivers** than there are rides. 
 
 My three recommendations are the following:
 1. Reduce the amount of drivers in Urban areas so that the current driver see increased fares per ride
