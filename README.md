@@ -11,7 +11,7 @@ I was assigned the task to analyze date and summarize how the data differs by ci
 - Based off of the **Summary** information, I can conlude the follwoing:
 
 
-   - Rural customer are more willing to find their own forms of transportation.
+   - Rural customer may be more willing to find their own forms of transportation.
       - May have a smaller pool of consumers.
       - Rural customers are charged the most per fare on average.
       - Rural Pyber drivers earn the most fare on average. 
