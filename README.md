@@ -4,9 +4,12 @@ I was assigned the task to analyize date and summarize how the data differs by c
 ## Results ##
 - Based off of the *Summary* information, I can condluded the follwoing:
    - Rural customer are more willing to find their own forms of transportation.
-      - df 
+      - Rural customers also are charged the most per customer on average.
+      - Rural Pyber drivers earn the most fare on average. 
    - Suburban customers use Pyber service more less than Urban customrs.
+      - Suburban customers are in middle on all the metrics.  
    - Uban customers are a majority of their consumer base.
-   - 
+      - Urban customres on average are using the product the most.
+      - Urban drives earn the least amount of fare per ride than other city types.
 ## Summary ## 
 After 
