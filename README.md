@@ -17,7 +17,7 @@ I was assigned the task to analyze date and summarize how the data differs by ci
       - Rural Pyber drivers earn the most fare on average. 
    - Suburban customers use Pyber service more less than Urban customers.
       - Suburban customers are in the middle on all the metrics.  
-   - Uban customers are a majority of their consumer base.
+   - Urban customers are a majority of their consumer base.
       - Urban customres on average are using the product the most.
       - Urban drives earn the least amount of fare per ride than other city types.
 
